@@ -1,5 +1,6 @@
 # Car_Rental_Booking
 Full Stack Car Rental Booking App using React js &amp; ImageKit 
+
 Key Features:
 
 User Authentication: Secure sign-up and login functionality using JWT (JSON Web Tokens).
